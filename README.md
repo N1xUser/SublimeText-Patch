@@ -33,8 +33,8 @@ The **Sublime Text Patcher** is a powerful Python utility designed to patch the 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/N1xUser/ST-Patch.git
-   cd ST-Patch
+   git clone https://github.com/N1xUser/SublimeText-Patch.git
+   cd SublimeText-Patch-main
    ```
 
 2. Install required dependencies:
