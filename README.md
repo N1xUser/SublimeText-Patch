@@ -21,7 +21,7 @@ The **Sublime Text Patcher** is a powerful Python utility designed to patch the 
 - Windows Operating System
 - Python 3.8 or higher
 - Administrator Privileges
-- Installed Sublime Text Build 4180 (Different versions may not work)
+- Installed Sublime Text Build 4180/4200 or older
 
 ## 📦 Required Dependencies
 
@@ -67,7 +67,6 @@ SublimeTextPatch.py
 
 - **Always backup your data before running the script**
 - **Requires administrative permissions**
-- Use at your own risk
 
 ## 🛡️ Safety Measures
 
